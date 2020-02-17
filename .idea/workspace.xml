@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaddf8d3-1f16-469d-95d9-3f998fc6989f" name="Default Changelist" comment="" />
+    <list default="true" id="aaddf8d3-1f16-469d-95d9-3f998fc6989f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,14 +113,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581916941969</updated>
-      <workItem from="1581916947357" duration="329000" />
+      <workItem from="1581916947357" duration="488000" />
     </task>
+    <task id="LOCAL-00001" summary="测试idea使用Git首次提交代码">
+      <created>1581917383850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581917383850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试idea使用Git首次提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试idea使用Git首次提交代码" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="572" y="114" key="CommitChangelistDialog2" timestamp="1581917382713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581917382713" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1581917266346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
